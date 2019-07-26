@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    artii (2.1.2)
     ast (2.4.0)
     childprocess (1.0.1)
       rake (< 13.0)
@@ -57,7 +56,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  artii
   dotenv
   pry
   rspec
